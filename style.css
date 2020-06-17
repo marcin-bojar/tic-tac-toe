@@ -87,7 +87,7 @@ h1 {
 }
 
 .game-board {
-    width: 50%;
+    width: 60%;
     background-color: transparent;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -265,6 +265,7 @@ h1 {
 
     .game-board  {
         margin: 2rem auto;
+        width: 50%;
     }
 
     .game-board__field {
